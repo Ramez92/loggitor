@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ramez
+Build-Jdk: 11.0.1
+Implementation-Title: loggitor
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.log
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/loggitor
+Created-By: Maven Integration for Eclipse
+
